@@ -1,9 +1,0 @@
-{
-  "v": 1,
-  "updated_utc": "2026-11-23T16:23:34.665Z",
-  "endpoints": [
-    "https://api.zinchun.com/v1/unlock",
-    "https://hermessub-backup.netlify.app/.netlify/functions/unlock"
-  ],
-  "sig_b64": "v2Hs9ru/lvbn0Xa+UZKIIa5ccufxt66rlMs2JmCY7QhLzjJU2D0iuWcxiJjo/tbw/wC8tg3ldaMltFvNU0EvDg=="
-}
