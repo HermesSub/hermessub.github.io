@@ -1,0 +1,31 @@
+# HermesSub
+
+> HermesSub is a free real-time game subtitle translator and multi-character AI voice dubbing application for Windows 10/11, macOS (Apple Silicon), PlayStation 5 (no jailbreak required), and Smart TVs (LG webOS, Samsung Tizen, Android TV), with an upcoming iOS/iPadOS companion.
+
+## Core Capabilities
+
+- **Context-Aware Story Translation:** Tracks ongoing game narrative, character relationships, speaker tone (e.g., Vietnamese honorifics and pronoun pairs), and game-specific glossaries instead of translating isolated OCR lines out of context.
+- **Multi-Character AI Voice Acting:** Assigns distinct voices to individual speakers (protagonists, companions, antagonists) using local offline voices (Piper, Windows/Apple system voices) or online TTS engines.
+- **Zero-Jailbreak PlayStation 5 & 0ms Smart TV Overlay:** Keeps the player's DualSense controller on the primary PSN account over native HDMI (0ms input latency) while HermesSub reads dialogue silently via a secondary PSN Remote Play session or chiaki-ng/HDMI capture card, pushing crisp cinema subtitles directly onto LG webOS, Samsung Tizen, or Android TV.
+- **Privacy & Local-First Architecture:** No account required, no advertisements, and no third-party ad trackers. Screen OCR runs locally on the user's device, and optional Bring-Your-Own-Key (BYOK) AI keys (Gemini, DeepSeek, Groq, OpenAI) are encrypted locally via Windows DPAPI or Apple Keychain.
+
+## Official Downloads (Free)
+
+- [Windows x64 Release (v1.0.4)](https://github.com/HermesSub/hermessub.github.io/releases/download/v1.0.4/HermesSub-win-x64.zip): Standalone desktop package for Windows 10/11.
+- [macOS Apple Silicon Release (v1.0.4)](https://github.com/HermesSub/hermessub.github.io/releases/download/v1.0.4/HermesSub-osx-arm64.zip): Native desktop package for M1/M2/M3/M4 Macs.
+- [GitHub Releases Hub](https://github.com/HermesSub/hermessub.github.io/releases): Changelog, release binaries, and community game dictionaries.
+
+## Official Pages
+
+- [Trang chủ Tiếng Việt](https://hermessub.com/): Tổng quan tính năng, trình diễn trực tiếp, hỏi đáp (FAQ) và tải về miễn phí.
+- [English Homepage](https://hermessub.com/en/): Product overview, live demo video, FAQ, and free downloads.
+- [Hướng dẫn cài đặt & kết nối PS5 / Smart TV (VI)](https://hermessub.com/guides/): Hướng dẫn từng bước ghép nối PS5 lần đầu, kết nối qua chiaki-ng và chơi PS5 hằng ngày trên Smart TV độ trễ 0ms.
+- [PS5, chiaki-ng & Smart TV Setup Guides (EN)](https://hermessub.com/en/guides/): Step-by-step walkthroughs for first-time PS5 Remote Play pairing, chiaki-ng setup, and daily 0ms Smart TV play.
+- [Chính sách Quyền riêng tư (VI)](https://hermessub.com/privacy/): Chi tiết xử lý dữ liệu tại máy và cam kết bảo mật.
+- [Privacy Policy (EN)](https://hermessub.com/en/privacy/): On-device OCR, API key security, and data transparency policy.
+
+## Community & Contact
+
+- Email: contact@hermessub.com
+- Telegram Community: https://t.me/hermessub_com
+- Facebook Page: https://www.facebook.com/hermessub
